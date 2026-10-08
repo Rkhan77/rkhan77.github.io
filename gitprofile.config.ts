@@ -150,7 +150,7 @@ const CONFIG = {
       company: 'ATOM Supply',
       position: 'Data Support Officer',
       from: '2023',
-      to: '2025 (1 year 10 months',
+      to: '2025 (1 year 10 months)',
       companyLink: 'https://www.atom.com.au/',
     },
   ],
