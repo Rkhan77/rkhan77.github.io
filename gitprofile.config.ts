@@ -121,7 +121,7 @@ const CONFIG = {
     'Rest API',
     'Large Language Models (LLMs)',
     'Model Context Protocol (MCP),
-    'Retrieval-Augmented Generation (RAG),
+    'Retrieval Augmented Generation (RAG),
     'Windows, macOS & Linux Systems',
     'SAP',
     'Microsoft Dynamics 365',
